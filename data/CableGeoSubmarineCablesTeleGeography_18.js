@@ -1,0 +1,1 @@
+var json_CableGeoSubmarineCablesTeleGeography_18 = {"type":"FeatureCollection","name":"CableGeoSubmarineCablesTeleGeography_18","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
